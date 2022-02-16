@@ -1,0 +1,67 @@
+.body{
+	color : white;
+}
+li {
+	list-style: none;
+	text-align: center;
+	border-radius: 10px ;
+}
+.kop{
+	background-color: black ;
+	color: white;
+	text-align : center ; 
+	font-size : 30px ;
+	font-family: "BAUHAUS 93";
+}
+.header {
+	background-color : black ;
+	color : yellow ;
+	height : 90px ;
+	font-family: "arial black";
+}
+.main {
+	padding-bottom : 40px ;
+}
+.header-logo1 {
+	float: left;
+	padding: 8px 30px;
+}
+.header-logo2 {
+	font-size:36px;
+	float:right;
+	padding:15px 30px;
+	border-radius: 5px;
+	border:5px solid #00008B ;
+	background-color: red;
+}
+
+.header-list li:hover {
+	background-color: yellow; 
+	color: black ;
+
+}
+.header img {
+	border-color: white ;
+	border-radius : 15px ;
+	border-style : solid;
+}
+.header li {
+	background-color : black ;
+	float: left;
+	margin :23px ;
+	border-radius : 15px 15px 15px 15px ;
+	display : block ;
+	position : relative ;
+	padding: 10px 10px;
+	padding-left : 10px ;
+	color : white;
+	border : 2px solid white ;
+}
+.footer {
+	background-color: black;
+	color: white;
+	height: 30px;
+	padding: 30px;
+	text-align : center ;
+	font-size : 30px ;
+}
